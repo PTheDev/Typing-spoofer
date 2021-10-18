@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Discord 24/7 Typing Spoofer
 
-![alt text](https://github.com/PTheDev/Discord-typing-spoof/blob/main/XfzQSvoCnamh0Y-7jnVaPA.png?raw=true)
+![alt text](https://github.com/PTheDev/Typing-spoofer/blob/main/XfzQSvoCnamh0Y-7jnVaPA.png?raw=true)
 
 You will see this 24/7, if you run this script on server.
 
